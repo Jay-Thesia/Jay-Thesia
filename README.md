@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jayengineer.jp2410@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Nbaed8TzT3SpKlfZtQuRdt01fbvIFfLe/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WcpYWlj-ub3MVHnbSHVEZ2Tfc8ApjMce/view?usp=drivesdk)
 
 - ⚡ Fun fact **Coder ∝ impostor syndrome**
 
