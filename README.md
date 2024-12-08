@@ -1,4 +1,4 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBK7zNUqLqcs4po5enxak5CrMgnc44HA_Hj8P7GEbqBeHEroigJPBGoUCYRQ5La7Qr1TVM4l-Q310vgRyLNFXZPi_DBD_ELPY6lFvgu0HDCp6CeeAk2VPLL5Wf0ghtcdq4H2stZLcWTxyh1cJ9gjKDUr0wBrrGE9ud7pVbVC27PPYtDROkIu-R3-pYKg/s1584/GitHub%20Banner.png)](https://jaythesia.me)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBK7zNUqLqcs4po5enxak5CrMgnc44HA_Hj8P7GEbqBeHEroigJPBGoUCYRQ5La7Qr1TVM4l-Q310vgRyLNFXZPi_DBD_ELPY6lFvgu0HDCp6CeeAk2VPLL5Wf0ghtcdq4H2stZLcWTxyh1cJ9gjKDUr0wBrrGE9ud7pVbVC27PPYtDROkIu-R3-pYKg/s1584/GitHub%20Banner.png)](https://jaythesia.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Jay Thesia</h1>
 <h3 align="center">Dev-Manus👨‍💻 || C0d0-h0lic🧬 || Software Engineer⌨</h3>
