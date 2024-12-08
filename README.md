@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently working as **MERN Stack** Developer.
 
-- 👨‍💻 All of my projects are available at [https://www.jaythesia.me](https://www.jaythesia.me)
+- 👨‍💻 All of my projects are available at [My Website](https://jaythesia.netlify.app/)
 
 - 💬 Ask me about **Java, JavaScript, Web Development, Git, GitHub**
 
 - 📫 How to reach me **jayengineer.jp2410@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QZ-7tA98GBoO2jRPJdoz7hEf-_fRMDzo/view?usp=sharing](https://drive.google.com/file/d/1QZ-7tA98GBoO2jRPJdoz7hEf-_fRMDzo/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Nbaed8TzT3SpKlfZtQuRdt01fbvIFfLe/view)
 
 - ⚡ Fun fact **Coder ∝ impostor syndrome**
 
