@@ -7,7 +7,7 @@ name: Generate Snake
 on:
   schedule:
       # every 6 hours
-    - cron: "0 */6 * * *"
+    - cron: "0 0 * * *"
 
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
@@ -34,11 +34,11 @@ jobs:
           # gif_out_path: dist/github-contribution-grid-snake.gif
           # svg_out_path: dist/github-contribution-grid-snake.svg
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake-dark.gif?palette=github-dark
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
-      - run: git status
+      # - run: git status
 
       # Push the changes
       # - name: Push changes
