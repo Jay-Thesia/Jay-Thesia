@@ -73,7 +73,7 @@
 
 ## Snake eating my contribution graph
 
-![snake gif](https://github.com/jay-thesia/jay-thesia/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/jay-thesia/jay-thesia/output/github-contribution-grid-snake.gif)
 
 
 
